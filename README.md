@@ -6,6 +6,12 @@ A CPU-based offline 3D Ray Tracer built in modern C++ using Microsoft Visual Stu
 
 ---
 
+<img width="627" height="458" alt="Screenshot 2026-10-18 202301" src="https://github.com/user-attachments/assets/3f4236a1-eb88-4e34-b7cb-b8b97ee3bdda" />
+
+<img width="640" height="480" alt="2026-10-1820-36-56-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/bf8fb451-a879-4f87-a7f9-33b548946da0" />
+
+
+
 ## 📸 Core Features & Custom Implementations
 
 * **Multi-Threaded Pixel Pipeline**:
